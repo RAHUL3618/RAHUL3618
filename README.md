@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAHULROLANIYA
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning C & JAVA
+- 🌱 I’m currently learning AI/ML
 
 - 😄 Pronouns: HE/HIM
 
